@@ -1,10 +1,10 @@
 # Kryptbase - Web 3.0 Blockchain Application
 
-![Krypt](https://drive.google.com/file/d/16fQTS5OLZob4OccAk6we0w5q-uWmZX0M/view?usp=sharing)
+![Krypt](https://github.com/Joenif/kryptbase/blob/main/client/images/demo/Kryptobase%20-%20light%20mode.png?raw=true)
 #### Web Light Mode
 
 
-![Krypt](https://www.awesomescreenshot.com/image/24298631?key=1e0c69f6c767b756409b96ad113b6237)
+![Krypt](https://github.com/Joenif/kryptbase/blob/main/client/images/demo/Kryptbase%20-%20Web%203.0%20project.png?raw=true)
 #### Web Dark Mode
 
 
