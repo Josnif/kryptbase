@@ -30,7 +30,6 @@ const Navbar = () => {
     }
 
     useEffect(() => {
-        console.log(typeof localStorage.getItem('theme'));
         if (typeof localStorage.getItem('theme') == 'object') {
             setThemeMode('dark');
             document.documentElement.classList.add('dark');

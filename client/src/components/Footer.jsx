@@ -32,6 +32,7 @@ const Footer = () => {
                 <a href="mailto:jotwebstudio@gmail.com">
                     <p className="dark:text-white text-sm text-center underline">jotwebstudio@gmail.com</p>
                 </a>
+                <p className="dark:text-white text-sm text-center mt-2">Made with React</p>
             </div>
             <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 "></div>
             <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
